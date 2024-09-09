@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: center;
+    background: #150638;
+    color: rgb(97, 120, 235);
+}
+.sessao {
+    background-color: #333333;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video{
+
+}
